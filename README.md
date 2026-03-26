@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Amber Shekhar Shrivastava alias Frosty-panda
-- 👀 I’m interested in AI, Data Science and emerging technologies
-- 🌱 I’m currently studying at Indian Institute of Technology, Kharagpur.
-
-I hereby declare that this is my official github profile
+Hi, I’m Amber Shekhar Shrivastava alias Frosty-panda
+- Currently working as a Senior Analyst - GenAI Data Scientist at American Express
+- 2023 Dual degree(M. Tech + B. Tech) graduate from IIT Kharagpur
+- Expertise in Machine Learning, time-series analysis and causal analysis
+- AT Amex, I developed a POC for business unit automation using GenAI to increase efficiency
 
 
